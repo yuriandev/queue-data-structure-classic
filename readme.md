@@ -1,3 +1,3 @@
 # Queue data structure
 
-Study example
+My study example
